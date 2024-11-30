@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+</head>
+<body>
+    <h1>Ruben Joseph Monteagudo Bedoya</h1>
+<br/>
+<img src="https://github.com/Josephmbedoya/Portafolio/blob/main/josephgitcara.png"/>
+    <h2>Arequipa/Peru | 925870768</h2>
+    <h2>joseph.mb@gmail.com</h2>
+    <h2><a href="https://github.com/Josephmbedoya">github</a></h2>
+    <h2><a href="https://www.linkedin.com/in/josephmbedoya">linkedin</a></h2>
+<br/>
+<br/>
+    <h2 id="tope">INDICE</h2>
+    <p><a href="#proyectos"> Ir a Proyectos</a></p>
+    <p><a href="#habil"> Ir a Habilidades Tecnicas</a></p>
+    <p><a href="#cont"> Ir a Contacto</a></p>
+    <h2>Resumen</h2>
+    <p>Desarrollador Backend con experiencia en el diseño, desarrollo e implementación de sistemas robustos y escalables. <b>Experto en lenguajes como Python, Java,  y frameworks  Spring Boot</b>. Amplia experiencia trabajando con bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB) y en la integración de APIs RESTful y GraphQL. Familiaridad con metodologías ágiles, herramientas de control de versiones (Git) y entornos basados en contenedores como Docker.
+
+        Habilidades destacadas en optimización de rendimiento, pruebas automatizadas y seguridad de aplicaciones. Comprometido con la resolución de problemas complejos y la entrega de soluciones de alta calidad que mejoren la experiencia del usuario y el rendimiento del negocio.
+        
+        Busco contribuir al desarrollo de soluciones tecnológicas innovadoras en un equipo dinámico y colaborativo.</p>
+<br/>
+<br/>
+    <h2>Formacion Academica</h2>
+    
+    <h3>Universidad Catolica de Santa Maria</h3>
+    <h3>Todocodeacademy</h3>
+<br/>
+<br/>
+    <h2 id="proyectos">Proyectos</h2>
+
+    <h3><u>Proyecto 1: SISTEMA PARA PELIQUERIA CANINA</u></h3>
+    <p>Este proyecto se trata de un <b>sistema de registro de mascotas</b>, donde tiene 4 pantallas con distintas opciones. La principal tiene 3 botones <i>(VER DATOS, SALIR, CARGAR DATOS)</i> las otras son para INGRESAR DATOS, MODIFICAR DATOS y VER DATOS en una tabla, el proyecto esta hecho en java, tiene conexion con base de datos MySQL</p>
+
+    <h3><u>Proyecto 2: Desarrollo de un SISTEMA PARA UNA CONCESIONARIA DE AUTOS</u></h3>
+
+    <p>Se trata de sistema para una concesionaria de autos donde tiene 4 pantallas principales, las cuales permiten hacer INGRESO DE DATOS, MODIFICACION DE DATOS y ELIMINACION DE DATOS directa de la base de datos (Mysql) , la pantalla principal tiene 3 botones <i>(ALTA DE AUTOMOVILES, CONSULTA EDICION Y BAJA, SALIR)</i> , en las otras pantalla podemos hacer MODIFICAR y ELIMINAR</p>
+<br/>
+<br/>
+    <H2 id="habil">Habilidades Tecnicas</H2>
+    <h3>Lenguajes de Programacion</h3>
+    <h4><u>Java</u></h4>
+    <h4>Html</h4>
+    <h4>CSS</h4>
+    <h4>JavaScript</h4>
+    <h4>Python</h4>
+    <h4>Matlab</h4>
+    <h4>Java Web</h4>
+    <h4><u>Spring Boot</u></h4>
+<br/>
+    <h3>Software de Dibujo y diseño</h3>
+    <h4>Adobe Photoshop</h4>
+    <h4>Adobe Ilustrator</h4>
+    <h4>Adobe Premiere</h4>
+    <h4>Adobe Audition</h4>
+<br/>
+    <h3>Idiomas</h3>
+    <h4>Ingles</h4>
+    <h4>Español Nativo</h4>
+    <h4>Frances</h4>
+<br>
+<h2 id="cont">Contacto</h2>
+
+<br>
+<p><a href="#tope"> Ir  arriba</a></p>
+</body>
+
+</html>
